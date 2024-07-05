@@ -1,3 +1,6 @@
-streamlit
-smtplib
-gspread
+google_api_python_client==2.135.0
+gspread==6.1.2
+numpy==2.0.0
+protobuf==5.27.2
+streamlit==1.36.0
+streamlit_option_menu==0.3.13
